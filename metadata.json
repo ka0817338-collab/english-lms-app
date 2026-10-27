@@ -1,0 +1,6 @@
+{
+  "name": "English Intermediate Master",
+  "description": "Learn, Practice, Review, and Test Your English based on 11 intermediate lessons with grammar, vocabulary, questions, and matching exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
